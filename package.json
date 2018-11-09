@@ -1,0 +1,15 @@
+{
+  "name": "alumni-app",
+  "version": "1.0.0",
+  "description": "Chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Neeraj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1"
+  }
+}
